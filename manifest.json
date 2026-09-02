@@ -1,0 +1,13 @@
+{
+  "name": "Aspire on Tenth",
+  "short_name": "Aspire on 10th",
+  "description": "Owner Dashboard — Aspire on Tenth, Sarasota FL",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071a26",
+  "theme_color": "#071a26",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
